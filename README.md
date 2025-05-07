@@ -26,3 +26,13 @@ We tested the query interpretation module on **35 diverse user prompts**. The re
 This high accuracy confirms the model’s robustness, although routing preferences are now selected via sliders for better user control.
 
 ---
+
+## 🧰 Requirements
+ 
+- Python 3.9+
+- [Groq Python SDK](https://github.com/groq/groq-python) for LLM access
+- `gradio`, `networkx`, `scipy`, `folium`, `pandas`, `geopy`
+ 
+Install dependencies:
+```bash
+pip install groq gradio networkx scipy folium pandas geopy
