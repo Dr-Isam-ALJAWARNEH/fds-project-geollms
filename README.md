@@ -20,16 +20,16 @@
 ## 🗂️ Repository Structure
 ```bash
 fds-project-geollms/
-├── Datasets/                    # PM2.5, NDVI, and OSM-based network data
-├── AQ_Path_Selection/           # Pathfinding logic and algorithms
-├── Visualization/              # Heatmaps and system diagrams
-├── literature/                 # Related research literature
-├── Interface.ipynb             # Gradio-based UI implementation
-├── LLM_integration.ipynb       # LLM parsing and explanation logic
+├── Datasets/                        # PM2.5, NDVI, and OSM-based network data
+├── AQ_Path_Selection/               # Pathfinding logic and algorithms
+├── Visualization/                   # Heatmaps and system diagrams
+├── literature/                      # Related research literature
+├── Interface.ipynb                  # Gradio-based UI implementation
+├── LLM_integration.ipynb            # LLM parsing and explanation logic
 ├── AQI_Dataset_Preprocessing.ipynb  # Data preprocessing and cleaning
-├── Testing_Prompts.xlsx        # 35 prompt-based test cases
-├── GeoBikeLLM Paper.docx       # Project methodology and write-up
-└── README.md                   # Project documentation
+├── Testing_Prompts.xlsx             # 35 prompt-based test cases
+├── GeoBikeLLM Paper.docx            # Project methodology and write-up
+└── README.md                        # Project documentation
 ```
 
 
