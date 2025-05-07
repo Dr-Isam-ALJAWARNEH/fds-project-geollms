@@ -18,7 +18,7 @@
 ---
 
 ## 🗂️ Repository Structure
-```
+```bash
 fds-project-geollms/
 ├── Datasets/                    # PM2.5, NDVI, and OSM-based network data
 ├── AQ_Path_Selection/           # Pathfinding logic and algorithms
