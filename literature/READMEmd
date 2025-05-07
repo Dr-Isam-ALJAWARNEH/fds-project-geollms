@@ -1,0 +1,28 @@
+# 📚 Literature Review
+
+This folder contains all resources, notes, and supporting documents related to the literature review for the GeoLLMs (Geospatial Language Models) project.
+
+---
+
+## 📁 Folder Structure
+
+### `Studies/`
+Containsresearch papers
+
+### `LLM_Geospatial_Chatbot_LitReview.xlsx`
+An organized spreadsheet summarizing all reviewed papers with the following fields:
+- **LLM / NLP Method** (e.g., GPT, BERT, rule-based)
+- **Geospatial Data Type** (e.g., coordinates, maps, satellite imagery)
+- **Chatbot Role** (e.g., guide, assistant)
+- **Integration Method** (e.g., APIs, embeddings)
+- **Main Contribution** and **Use Case**
+- **Limitations / Gaps**
+
+---
+
+## 📌 Purpose
+To centralize and organize all relevant academic sources that support the design and development of a geospatially aware chatbot using large language models (LLMs).
+
+This literature review guides the theoretical foundation and implementation strategy of the project.
+
+---
