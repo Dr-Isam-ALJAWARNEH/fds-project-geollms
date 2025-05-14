@@ -109,7 +109,8 @@ Then:
 - Click the button to generate the route and explanation
 
 ---
-
+Supervised by:
+[Dr. Isam Al Jawarneh](https://isamaljawarneh.github.io/)
 ### ✅ Done by:
 
 - **Menatalla Haggag U23103328**
